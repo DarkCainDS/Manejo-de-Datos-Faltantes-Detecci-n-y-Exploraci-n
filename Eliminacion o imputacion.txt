@@ -1,0 +1,5 @@
+Eliminacion de Valores Faltantes
+Cuando se trata de valores faltantes tenemos dos aproximaciones para el tratamiento de los mismos:
+
+Eliminacion de valores faltantes: La eliminación de valores faltantes asume que los valores faltantes están perdidos completamente al azar (MCAR). En cualquier otro caso, realizar una eliminación de valores faltantes podrá ocasionar sesgos en los análisis y modelos subsecuentes. Por tanto, es importante investigar que mecanismos tienen los datos para asi evitar los sesgos a la hora de eliminarlos
+Imputacion de valores faltantes: consiste en añadir valores en los datos faltantes para mantener el registro en el dataset
